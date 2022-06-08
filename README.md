@@ -1,1 +1,1 @@
-## Rock’, ‘Paper’ or ‘Scissors’ game in console
+## Rock’, ‘Paper’, ‘Scissors’ game in console
